@@ -1,2 +1,2 @@
 # JS-Beyondtarun
-see of javascript
+sea of javascript
